@@ -1,0 +1,22 @@
+{
+  "name": "node-modules-linker",
+  "version": "1.0.0",
+  "description": "Creates a symbolic link to the node_modules of a parent dir.",
+  "main": "index.js",
+  "bin": {
+    "nml": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThisseasX/node-modules-linker.git"
+  },
+  "keywords": [
+    "symlink",
+    "node",
+    "modules",
+    "node_modules"
+  ],
+  "author": "ThisseasX",
+  "license": "MIT",
+  "dependencies": {}
+}
